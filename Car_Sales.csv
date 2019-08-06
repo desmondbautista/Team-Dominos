@@ -1,0 +1,57 @@
+ID,Vehicle,Type,Date,sale_volume
+O,BMW i3,EV,2015,11004
+O,Chevrolet Bolt,EV,2015,0
+O,Chevrolet Spark,EV,2015,2629
+O,Fiat 500E,EV,2015,3477
+O,Ford Focus EV,EV,2015,1582
+O,Honda Clarity BEV,EV,2015,0
+O,Hyundai Ioniq EV,EV,2015,0
+O,Kia Soul EV,EV,2015,1015
+O,Mercedes B-Class Electric,EV,2015,1906
+O,Mitsubishi i-MiEV,EV,2015,115
+O,Nissan LEAF,EV,2015,17269
+O,Smart for Two EV,EV,2015,1387
+T,Tesla Model ,EV,2015,26408
+O,VW e-Golf,EV,2015,4232
+O,BMW i3,EV,2016,7625
+O,Chevrolet Bolt,EV,2016,579
+O,Chevrolet Spark,EV,2016,3035
+O,Fiat 500E,EV,2016,3737
+O,Ford Focus EV,EV,2016,901
+O,Honda Clarity BEV,EV,2016,0
+O,Hyundai Ioniq EV,EV,2016,0
+O,Kia Soul EV,EV,2016,1728
+O,Mercedes B-Class Electric,EV,2016,632
+O,Mitsubishi i-MiEV,EV,2016,94
+O,Nissan LEAF,EV,2016,14006
+O,Smart for Two EV,EV,2016,657
+T,Tesla Model ,EV,2016,45800
+O,VW e-Golf,EV,2016,3937
+O,BMW i3,EV,2017,6276
+O,Chevrolet Bolt,EV,2017,23297
+O,Chevrolet Spark,EV,2017,23
+O,Fiat 500E,EV,2017,3336
+O,Ford Focus EV,EV,2017,1817
+O,Honda Clarity BEV,EV,2017,1111
+O,Hyundai Ioniq EV,EV,2017,427
+O,Kia Soul EV,EV,2017,2157
+O,Mercedes B-Class Electric,EV,2017,744
+O,Mitsubishi i-MiEV,EV,2017,6
+O,Nissan LEAF,EV,2017,11230
+O,Smart for Two EV,EV,2017,543
+T,Tesla Model ,EV,2017,49670
+O,VW e-Golf,EV,2017,3534
+O,BMW i3,EV,2018,6117
+O,Chevrolet Bolt,EV,2018,18019
+O,Chevrolet Spark,EV,2018,0
+O,Fiat 500E,EV,2018,2250
+O,Ford Focus EV,EV,2018,560
+O,Honda Clarity BEV,EV,2018,948
+O,Hyundai Ioniq EV,EV,2018,345
+O,Kia Soul EV,EV,2018,1134
+O,Mercedes B-Class Electric,EV,2018,135
+O,Mitsubishi i-MiEV,EV,2018,0
+O,Nissan LEAF,EV,2018,14715
+O,Smart for Two EV,EV,2018,1219
+T,Tesla Model ,EV,2018,192082
+O,VW e-Golf,EV,2018,1354
